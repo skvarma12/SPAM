@@ -1,3 +1,0 @@
-glove.6B.100d.txt
-quora_spam_model.keras
-*.zip
